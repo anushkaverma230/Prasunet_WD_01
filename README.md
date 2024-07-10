@@ -7,12 +7,14 @@ I'm a Web developer...
 
 Intrested in Web Designing.
 
-i have knowledge in HTML CSS BOOTSTRAP, PHP/SQL, Js-basic, WORDPRESS.
+i have knowledge in HTML, CSS, BOOTSTRAP, PHP/SQL, Js-basic, WORDPRESS.
+
 
 Acknowledgements
-BA- Economics
+BA- Economics ||
 Full stack development course
+
 🛠 Skills
-Javascript - basic, HTML, CSS, PHP, SQL, WORDPRESS.
+Javascript - basic, HTML, CSS, Js,  PHP, SQL, WORDPRESS.
 
 Good at problem solving.
